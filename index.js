@@ -16,7 +16,5 @@ function calculatesFarePrice(start, destination){
     return 0;
   if (Math.abs(start-destiation)> 400 && <=2000)
     return Math.abs(start-destiation)*0.02
-    
+
   }
-
-
